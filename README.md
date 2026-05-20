@@ -16,7 +16,7 @@
 3. Uma vez dentro do terminal da VM, cole a seguinte sequência de comandos:
 
    ```bash
-   git clone https://github.com/rlfonseca-lab/sfb.git
+   git clone https://github.com/smorbiolo/sfb.git
    cd sfb
    nano install_ckan_sfb_docker_full.vars
    nano install_ckan_sfb_docker_full.secrets
