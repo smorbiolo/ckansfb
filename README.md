@@ -17,7 +17,7 @@
 
    ```bash
    git clone https://github.com/smorbiolo/ckansfb.git
-   cd sfb
+   cd ckansfb
    nano install_ckan_sfb_docker_full.vars
    nano install_ckan_sfb_docker_full.secrets
    chmod 700 install_ckan_sfb_docker_full.sh
